@@ -18,18 +18,7 @@ Luxembourg / CSSF guidance and circulars
 ESA technical standards, guidelines, and Q&As
 
 Suggested structure
-text
-mica-notebooklm/
-├── README.md
-├── docs/
-│   ├── level-1/
-│   ├── rts-its-guidelines/
-│   ├── cssf-luxembourg/
-│   └── commentary/
-├── prompts/
-│   └── gemini_micar_instructions.md
-└── tables/
-    └── mica_documents.md
+
 How to use
 Gather official MiCAR, ESMA, EBA, and CSSF materials.
 
