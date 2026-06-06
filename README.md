@@ -1,5 +1,5 @@
 # MicaR-EU-regulation
-MiCA NotebookLM
+MiCA NotebookLM 
 A lightweight GitHub repository for organizing a MiCA / MiCAR learning and research setup based on NotebookLM, with optional companion prompts for Gemini, ChatGPT, and Claude. The goal is to centralize source documents, track key regulatory materials, and make it easier to build AI-assisted workflows for understanding MiCAR, CASPs, stablecoins, white papers, and Luxembourg/CSSF implementation.
 
 Purpose
@@ -46,4 +46,5 @@ Record document dates and versions whenever possible.
 
 Treat token qualification questions with caution; they often depend on specific facts.
 
-License
+License: MIT
+NotebookLm Link: https://notebooklm.google.com/notebook/7616bab7-5a1e-4bbe-83a3-a4eddb6a4af7
